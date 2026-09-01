@@ -1,33 +1,31 @@
 # Hi, I'm Elona Pavlenko 👋
 
-I'm a developer currently focused on building my career in the **SAP ecosystem**, with a broader foundation in web development and Python.
+## SAP-focused technology professional
 
-I enjoy understanding business processes and turning requirements into reliable, maintainable software. Alongside SAP, I keep developing practical backend skills through small projects involving APIs, databases, testing and third-party integrations.
+I'm currently building my career around **SAP and enterprise business processes**. My goal is to work where technology, process understanding and continuous improvement meet.
 
-## Current focus
+My previous software-development experience gives me an additional technical perspective: I can understand application logic, APIs, data structures and automation, which complements my SAP direction.
 
-- Growing my knowledge of SAP and enterprise software
-- Python backend development
-- REST APIs, data modelling and automation
-- Writing clearer, testable and maintainable code
+## Professional direction
 
-## Selected Python projects
+- SAP ecosystem and enterprise applications
+- Business-process understanding
+- System integration and data flows
+- Process improvement and automation
+- Continuous learning in enterprise technology
 
-### [Hydraulic Components API](https://github.com/pavlenkoelona/api_hidraulica)
+## Technical foundation
 
-A typed CRUD service built with FastAPI, SQLAlchemy and Pydantic. It includes validation, configurable persistence, interactive API documentation and automated tests.
+I also have hands-on programming experience and maintain selected projects that demonstrate structured problem-solving, API integration, databases, validation, testing and secure configuration.
 
-### [Weather App](https://github.com/pavlenkoelona/weather-app)
+- [Hydraulic Components API](https://github.com/pavlenkoelona/api_hidraulica)
+- [Weather Application](https://github.com/pavlenkoelona/weather-app)
 
-A Django application that integrates with OpenWeather and presents live conditions through a responsive interface. It demonstrates secure configuration, API error handling and tested Django views.
-
-## Technology
-
-`Python` · `FastAPI` · `Django` · `SQLAlchemy` · `REST APIs` · `JavaScript` · `HTML` · `CSS` · `Git`
+These projects are supporting evidence of my technical foundation; my current professional focus is SAP.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/elona-pavlenko)
 - [GitHub projects](https://github.com/pavlenkoelona)
 
-I'm especially interested in opportunities where I can combine enterprise processes, SAP and software development.
+I'm interested in opportunities that allow me to grow within SAP while contributing a practical software-development mindset.
