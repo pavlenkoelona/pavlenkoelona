@@ -3,7 +3,13 @@
 ## IT Systems Administration & Support
 ### Microsoft 365 · Windows Server · Python
 
-I combine practical software-development knowledge with a background in business operations. My professional interests include IT support, systems administration, Microsoft technologies and automation.
+I combine a background in business operations with practical software-development knowledge and an analytical approach to solving problems. My technical background includes Python, APIs, databases, testing and automation.
+
+Throughout my career, I have worked with accounting, purchasing, suppliers, inventory, invoicing, budgets, customer management and administrative processes. This experience helps me understand user needs, communicate clearly with different stakeholders and connect technology with everyday business workflows.
+
+I am interested in IT support, systems administration and cloud environments, including Windows Server and Microsoft 365. I continue to develop my technical knowledge through learning and practical work, with a focus on reliable solutions, clear documentation and continuous improvement.
+
+I am open to opportunities where I can contribute my technical foundation, organizational skills and business experience while growing within an IT team.
 
 ## Technical skills
 
@@ -14,22 +20,12 @@ I combine practical software-development knowledge with a background in business
 - Information security fundamentals
 - Python, APIs, SQL databases, testing and application development
 
-I continue to develop these skills through learning and practical work, with a focus on reliable solutions, clear documentation and continuous improvement.
-
 ## Projects
-
-My software projects demonstrate my foundation in programming, API integration, databases and structured problem-solving:
 
 - [Hydraulic Components API](https://github.com/pavlenkoelona/api_hidraulica)
 - [Weather Application](https://github.com/pavlenkoelona/weather-app)
-
-## Business background
-
-My experience in operations, administration and customer-facing roles helps me understand user needs, communicate with different stakeholders and connect technology with everyday business workflows.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/elona-pavlenko)
 - [GitHub projects](https://github.com/pavlenkoelona?tab=repositories)
-
-I'm open to opportunities in IT support and systems administration where I can contribute my technical foundation and business experience while growing within an IT team.
