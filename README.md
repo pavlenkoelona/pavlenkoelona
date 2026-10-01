@@ -1,31 +1,35 @@
 # Hi, I'm Elona Pavlenko 👋
 
-## SAP-focused technology professional
+## IT Systems Administration & Support
+### Microsoft 365 · Windows Server · Python
 
-I'm currently building my career around **SAP and enterprise business processes**. My goal is to work where technology, process understanding and continuous improvement meet.
+I combine practical software-development knowledge with a background in business operations. My professional interests include IT support, systems administration, Microsoft technologies and automation.
 
-My previous software-development experience gives me an additional technical perspective: I can understand application logic, APIs, data structures and automation, which complements my SAP direction.
+## Technical skills
 
-## Professional direction
+- Windows Server and Active Directory
+- PowerShell scripting and administration automation
+- Microsoft 365
+- Microsoft Endpoint Configuration Manager and File Services
+- Information security fundamentals
+- Python, APIs, SQL databases, testing and application development
 
-- SAP ecosystem and enterprise applications
-- Business-process understanding
-- System integration and data flows
-- Process improvement and automation
-- Continuous learning in enterprise technology
+I continue to develop these skills through learning and practical work, with a focus on reliable solutions, clear documentation and continuous improvement.
 
-## Technical foundation
+## Projects
 
-I also have hands-on programming experience and maintain selected projects that demonstrate structured problem-solving, API integration, databases, validation, testing and secure configuration.
+My software projects demonstrate my foundation in programming, API integration, databases and structured problem-solving:
 
 - [Hydraulic Components API](https://github.com/pavlenkoelona/api_hidraulica)
 - [Weather Application](https://github.com/pavlenkoelona/weather-app)
 
-These projects are supporting evidence of my technical foundation; my current professional focus is SAP.
+## Business background
+
+My experience in operations, administration and customer-facing roles helps me understand user needs, communicate with different stakeholders and connect technology with everyday business workflows.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/elona-pavlenko)
-- [GitHub projects](https://github.com/pavlenkoelona)
+- [GitHub projects](https://github.com/pavlenkoelona?tab=repositories)
 
-I'm interested in opportunities that allow me to grow within SAP while contributing a practical software-development mindset.
+I'm open to opportunities in IT support and systems administration where I can contribute my technical foundation and business experience while growing within an IT team.
